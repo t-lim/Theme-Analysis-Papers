@@ -25,11 +25,6 @@ Applying Large Language Models to Interpret Qualitative Interviews in Healthcare
 Stud Health Technol Inform. 2024 Aug 22;316:791-795. doi: 10.3233/SHTI240530. PMID: 39176911.
 https://pubmed.ncbi.nlm.nih.gov/39176911/
 
-Angelina Parfenova, Alexander Denzler, Juergen Pfeffer.
-Automating Qualitative Data Analysis with Large Language Models.
-Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 4: Student Research Workshop), pages 177–185, August 11-16, 2024.
-https://aclanthology.org/2024.acl-srw.17.pdf
-
 Lois Player, Ryan Hughes, Kaloyan Mitev, Lorraine Whitmarsh, Christina Demski, Nicholas Nash, Trisevgeni Papakonstantinou, Mark Wilson.
 The Use of Large Language Models for Qualitative Research: DECOTA.
 July 24, 2024.
@@ -90,6 +85,11 @@ https://doi.org/10.48550/arXiv.2401.03239
 LLM-Assisted Content Analysis: Using Large Language Models to Support Deductive Coding.
 Robert Chew, John Bollenbacher, Michael Wenger, Jessica Speer, Annice Kim.
 https://doi.org/10.48550/arXiv.2306.14924
+
+Angelina Parfenova, Alexander Denzler, Juergen Pfeffer.
+Automating Qualitative Data Analysis with Large Language Models.
+Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 4: Student Research Workshop), pages 177–185, August 11-16, 2024.
+https://aclanthology.org/2024.acl-srw.17.pdf
 
 Robert H. Tai,  Lillian R. Bentley,  Xin Xia, Jason M. Sitt,  Sarah C. Fankhauser,  Ana M. Chicas-Mosier,  Barnas G. Monteith.
 An Examination of the Use of Large Language Models to Aid Analysis of Textual Data.
