@@ -14,12 +14,6 @@ Stefano De Paoli,
 Writing user personas with Large Language Models: Testing phase 6 of a Thematic Analysis of semi-structured interviews.
 https://arxiv.org/ftp/arxiv/papers/2305/2305.18099.pdf
 
-Shih-Chieh Dai, Aiping Xiong, Lun-Wei Ku
-LLM-in-the-loop: Leveraging Large Language Model for Thematic
-Analysis.
-Findings of the Association for Computational Linguistics: EMNLP 2023, pages 9993–10001, December 6-10, 2023.
-https://aclanthology.org/2023.findings-emnlp.669.pdf
-
 Marie WOSNY and Janna HASTINGS.
 Applying Large Language Models to Interpret Qualitative Interviews in Healthcare.
 Stud Health Technol Inform. 2024 Aug 22;316:791-795. doi: 10.3233/SHTI240530. PMID: 39176911.
@@ -58,9 +52,21 @@ He Zhang, Chuhao Wu, Jingyi Xie, Yao Lyu, Jie Cai, John M. Carroll.
 Redefining Qualitative Analysis in the AI Era: Utilizing ChatGPT for Efficient Thematic Analysis.
 https://doi.org/10.48550/arXiv.2309.10771
 
+Satpreet H Singh, Kevin Jiang, Kanchan Bhasin, Ashutosh Sabharwal, Nidal Moukaddam, Ankit B Pate.
+RACER: An LLM-powered Methodology for Scalable Analysis of Semi-structured Mental Health Interviews.
+https://doi.org/10.48550/arXiv.2402.02656
+
+### Collaborative Frameworks
+
 Jie Gao, Yuchen Guo, Gionnieve Lim, Tianqin Zhang, Zheng Zhang, Toby Jia-Jun Li, Simon Tangi Perrault.
 CollabCoder: A Lower-barrier, Rigorous Workflow for Inductive Collaborative Qualitative Analysis with Large Language Models.
 https://doi.org/10.48550/arXiv.2304.07366
+
+Shih-Chieh Dai, Aiping Xiong, Lun-Wei Ku
+LLM-in-the-loop: Leveraging Large Language Model for Thematic
+Analysis.
+Findings of the Association for Computational Linguistics: EMNLP 2023, pages 9993–10001, December 6-10, 2023.
+https://aclanthology.org/2023.findings-emnlp.669.pdf
 
 
 ### Performance Evaluation
@@ -78,6 +84,14 @@ Stefano De Paoli, Walter Stan Mathis.
 Reflections on Inductive Thematic Saturation as a potential metric for measuring the validity of an inductive Thematic Analysis with LLMs.
 https://doi.org/10.48550/arXiv.2401.03239
 
+Saturation in qualitative research: exploring its conceptualization and operationalization.
+Benjamin Saunders, Julius Sim, Tom Kingstone, Shula Baker, Jackie Waterfield, Bernadette Bartlam, Heather Burroughs, Clare Jinks.
+Qual Quant (2018) 52:1893–1907.
+https://doi.org/10.1007/s11135-017-0574-8
+
+Loraine Busetto, Wolfgang Wick and Christoph Gumbinger.
+How to use and assess qualitative research methods.
+Neurological Research and Practice volume 2, Article number: 14 (2020).
 
 
 ## LLM's for deductive coding
@@ -96,7 +110,7 @@ An Examination of the Use of Large Language Models to Aid Analysis of Textual Da
 https://www.biorxiv.org/content/10.1101/2023.07.17.549361v2
  
 
-## LLM background
+## LLM technology
 
 Naoki Wake, Atsushi Kanehira, Kazuhiro Sasabuchi, Jun Takamatsu, and Katsushi Ikeuchi.
 Bias in Emotion Recognition with ChatGPT.
