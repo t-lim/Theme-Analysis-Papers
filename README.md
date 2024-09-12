@@ -5,8 +5,7 @@ Inductive thematic analysis of healthcare qualitative interviews using open-sour
 https://ssrn.com/abstract=4673015
 
 Stefano De Paoli.
-Performing an inductive Thematic Analysis of semi-structured interviews
-with a Large Language Model: An exploration and provocation on the limits of the approach.
+Performing an inductive Thematic Analysis of semi-structured interviews with a Large Language Model: An exploration and provocation on the limits of the approach.
 https://journals.sagepub.com/doi/epub/10.1177/08944393231220483
 https://github.com/sdptn/TA_LLM
 
@@ -25,9 +24,7 @@ July 24, 2024.
 https://doi.org/10.31234/osf.io/t5gbv
 
 Michael S Deiner1; Vlad Honcharov; Jiawei Li; Tim K Mackey; Travis C Porco; Urmimala Sarkar.
-Large Language Models Can Enable Inductive Thematic Analysis
-of a Social Media Corpus in a Single Prompt: Human Validation
-Study.
+Large Language Models Can Enable Inductive Thematic Analysis of a Social Media Corpus in a Single Prompt: Human Validation Study.
 JMIR Infodemiology 2024 | vol. 4.
 https://infodemiology.jmir.org/2024/1/e59641
 
