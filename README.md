@@ -125,3 +125,15 @@ https://doi.org/10.48550/arXiv.2407.16833
 Sander Schulhoff, Michael Ilie, Nishant Balepur, Konstantine Kahadze, Amanda Liu, Chenglei Si, Yinheng Li, Aayush Gupta, HyoJung Han, Sevien Schulhoff, Pranav Sandeep Dulepet, Saurav Vidyadhara, Dayeon Ki, Sweta Agrawal, Chau Pham, Gerson Kroiz, Feileen Li, Hudson Tao, Ashay Srivastava, Hevander Da Costa, Saloni Gupta, Megan L. Rogers, Inna Goncearenco, Giuseppe Sarli, Igor Galynker, Denis Peskoff, Marine Carpuat, Jules White, Shyamal Anadkat, Alexander Hoyle, Philip Resnik.
 The Prompt Report: A Systematic Survey of Prompting Techniques.
 https://doi.org/10.48550/arXiv.2406.06608
+
+Aman Madaan, Niket Tandon, Prakhar Gupta, Skyler Hallinan, Luyu Gao, Sarah Wiegreffe, Uri Alon, Nouha Dziri, Shrimai Prabhumoye, Yiming Yang, Shashank Gupta, Bodhisattwa Prasad Majumder, Katherine Hermann, Sean Welleck, Amir Yazdanbakhsh, Peter Clark.
+Self-Refine: Iterative Refinement with Self-Feedback.
+https://doi.org/10.48550/arXiv.2303.17651
+
+Konstantin Hebenstreit, Robert Praas, Louis P Kiesewetter, Matthias Samwald.
+An automatically discovered chain-of-thought prompt generalizes to novel models and datasets.
+https://doi.org/10.48550/arXiv.2305.02897
+
+Varun Nair, Elliot Schumacher, Geoffrey Tso, Anitha Kannan.
+DERA: Enhancing Large Language Model Completions with Dialog-Enabled Resolving Agents.
+https://doi.org/10.48550/arXiv.2303.17071
